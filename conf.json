@@ -1,0 +1,12 @@
+{
+  "keys": {
+    "fact.chuckNorris": "Chuck Norris doesn't make chocolate milk, he tells his cow to.",
+    "fact.jcvd": "Une noisette, j'la casse entre mes fesses tu vois..."
+  },
+
+  "value": {
+    "one": 1,
+    "two": 2,
+    "path": "/xxx/yyyy"
+  }
+}
